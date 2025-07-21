@@ -28,7 +28,7 @@ A customer earns:
 4. Access the endpoint:
 http://localhost:8080/api/rewards
 
-**API Response Example**
+## API Response Example
 {
   "John": {
     "2023-05": 90,
@@ -40,12 +40,12 @@ http://localhost:8080/api/rewards
     "Total": 110
   }
 }
-**Tech Stack**
+## Tech Stack
 Java 8+
 Spring Boot
 Maven
 REST API
 
-**Author**
+## Author**
 terala444
 
